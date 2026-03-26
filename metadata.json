@@ -1,0 +1,8 @@
+{
+  "name": "OPEN_LICON",
+  "description": "An immersive event invitation app featuring a real-time AI audio assistant for guest guidance.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
